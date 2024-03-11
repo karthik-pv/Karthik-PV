@@ -20,9 +20,7 @@ Aspiring Web Developer , AI and ML Engineer and much more
 
 🌱 I’m currently learning ...
 - Java
-
-
-~Jojo
+- 
 <!--
 **karthik-pv/Karthik-PV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
