@@ -2,19 +2,19 @@
 
 Aspiring Web Developer , AI and ML Engineer and much more
 
-Technologies - 
-C
-C++
-Python
-Javascript
-HTML/CSS
-Flask Web Server
-Node JS
-React JS
-Express JS
-MongoDB
-React + Firebase
-Basic Machine Learning
+- 🔭 I’m currently working on ...
+- C
+- C++
+- Python
+- Javascript
+- HTML/CSS
+- Flask Web Framework
+- Node JS
+- React JS
+- Express JS
+- MongoDB
+- React + Firebase
+- Basic Machine Learning
 
 - 🌱 I’m currently learning ...
 - Java
