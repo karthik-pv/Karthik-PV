@@ -1,5 +1,26 @@
-### Hi there 👋
+### Hi there 👋 , I'm Karthik PV
 
+Aspiring Web Developer , AI and ML Engineer and much more
+
+Technologies - 
+C
+C++
+Python
+Javascript
+HTML/CSS
+Flask Web Server
+Node JS
+React JS
+Express JS
+MongoDB
+React + Firebase
+Basic Machine Learning
+
+- 🌱 I’m currently learning ...
+- Java
+
+
+~Jojo
 <!--
 **karthik-pv/Karthik-PV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
