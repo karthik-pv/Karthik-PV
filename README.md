@@ -2,7 +2,7 @@
 
 Aspiring Web Developer , AI and ML Engineer and much more
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - C
 - C++
 - Python
@@ -16,7 +16,9 @@ Aspiring Web Developer , AI and ML Engineer and much more
 - React + Firebase
 - Basic Machine Learning
 
-- 🌱 I’m currently learning ...
+  
+
+🌱 I’m currently learning ...
 - Java
 
 
