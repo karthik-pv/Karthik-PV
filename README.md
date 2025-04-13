@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karthik PV</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Karthik PV (feel free to call me Jojo 😉)</h1>
+<h3 align="center">A problem solver on the good days and a crisis manager on the tough ones — climbing to the top with code in my hands and music in my soul.<br><br><br>Long live rock ’n’ roll.<br><br></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-pv&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-pv" /> </p>
 
