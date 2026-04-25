@@ -1,18 +1,25 @@
-<h1 align="center">Hi 👋, I'm Karthik PV (feel free to call me Jojo 😉)</h1>
-<h3 align="center">A problem solver on the good days and a crisis manager on the tough ones — climbing to the top with code on my hands and music in my soul.<br><br><br>Long live rock ’n’ roll.<br><br></h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-pv&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-pv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-pv" alt="karthik-pv" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karthik-pv-008024258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik pv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karthik_pv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthik_pv" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Karthik PV (Jojo 😉)</h1>
+<p align="center">
+  <b>Problem solver by day, crisis manager by night.</b><br>
+  Climbing to the top with code on my hands and music in my soul.<br>
+  <i>Long live rock ’n’ roll.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthik-pv&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-pv" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=karthik-pv" alt="trophies" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -37,10 +44,26 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</div>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik-pv&show_icons=true&locale=en&layout=compact" alt="karthik-pv" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthik-pv&show_icons=true&locale=en" alt="karthik-pv" /></p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-pv&" alt="karthik-pv" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik-pv&show_icons=true&locale=en&layout=compact&hide_border=true" alt="top-langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik-pv&show_icons=true&locale=en&hide_border=true" alt="stats" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-pv&hide_border=true" alt="streak" />
+</p>
+
+---
+
+### 📫 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/karthik-pv-008024258" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.leetcode.com/karthik_pv" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" /></a>
+</p>
